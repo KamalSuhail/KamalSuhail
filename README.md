@@ -6,7 +6,7 @@ Tech Enthusiast🚀
 
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about Tech
-- 📫 How to reach me :
+- 📫 How to reach me : ⬇️
 <br /><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kamal-suhail/)
 - 😄 Pronouns: Techie
 - ⚡Fun fact: I know Hindi
