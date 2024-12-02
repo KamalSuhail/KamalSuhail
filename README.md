@@ -21,8 +21,6 @@ Tech Enthusiast🚀
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Dell-Inspiron_15_5000-999999?style=for-the-badge&logo=dell&logoColor=blue"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=blue"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GEFORCE_MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=green"/> 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamalSuhail&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalSuhail&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalSuhail&theme=blue-green)
