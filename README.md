@@ -23,7 +23,7 @@ Tech Enthusiast🚀
 
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalSuhail&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamalSuhail&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamalSuhail&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=595)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalSuhail&theme=blue-green)
 
