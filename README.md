@@ -24,8 +24,6 @@ Tech Enthusiast🚀
 ### Github Streak
 ![Suhail's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=KamalSuhail&theme=gruvbox_duo&hide_border=true)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KamalSuhail&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalSuhail&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalSuhail&theme=blue-green)
