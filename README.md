@@ -30,4 +30,6 @@ Tech Enthusiast🚀
 
 ![Suhail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamalSuhail&bg_color=000000&color=ffffff&line=29d926&point=ffffff&area=true&hide_border=true)
 
+[My Quote](https://github-readme-quotes-returns.vercel.app/?quote=Be%20the%20change%20that%20you%20wish%20to%20see%20in%20the%20world)
+
 [![Visitor's Count](https://visitcount.itsvg.in/api?id=KamalSuhail&label=Profile%20Views&color=3&icon=7&pretty=false)](https://visitcount.itsvg.in)
