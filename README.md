@@ -21,7 +21,7 @@ Tech Enthusiast🚀
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Dell-Inspiron_15_5000-999999?style=for-the-badge&logo=dell&logoColor=blue"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=blue"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GEFORCE_MX330-76B900?style=for-the-badge&logo=nvidia&logoColor=green"/> 
 
-> I Hate Programming I Hate Programming I Hate Programming
+> I Hate Programming I Hate Programming I Hate Programming <br />
 > If It Works, I Love Programming
 
 ### Github Streak
