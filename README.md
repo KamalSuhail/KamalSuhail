@@ -1,4 +1,4 @@
-## _Hey there 👋 It's me Suhail_
+## _Hi there 👋 It's me Suhail_
 
 Tech Enthusiast🚀 
 
