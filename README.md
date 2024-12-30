@@ -4,7 +4,7 @@ Tech Enthusiast🚀
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">       
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJS
 - 💬 Ask me about Tech
 - 📫 How to reach me : ⬇️
 <br /><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kamal-suhail/)
