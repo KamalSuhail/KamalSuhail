@@ -31,4 +31,5 @@ Tech Enthusiast🚀 || IT Engineer🧑‍💻
 
 ![Suhail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamalSuhail&bg_color=000000&color=ffffff&line=29d926&point=ffffff&area=true&hide_border=true)
 
-[![Visitor's Count](https://visitcount.itsvg.in/api?id=KamalSuhail&label=Profile%20Views&color=3&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
