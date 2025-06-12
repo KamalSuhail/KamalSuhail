@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f005a33c-ddca-4ae5-943b-aba75ea033c1)## _Hi there👋 It's me Suhail_
+## _Hi there👋 It's me Suhail_
 
 Tech Enthusiast🚀 || IT Engineer🧑‍💻
 
